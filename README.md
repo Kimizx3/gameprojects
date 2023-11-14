@@ -1,4 +1,4 @@
-# gameprojects
+# Game Devlogs
 projects for web
 # Warehouse Design
 
@@ -22,3 +22,9 @@ We wanted our warehouse to be 'completely dark' for players, so we decided to sh
 The result turned out to be unsatisfactory because of the reason we misused lighting and shelves to get players involved in the environment. The environment is substitutive, and the setting is too easy to be copied.
 
 For the next designs, try to cope with the environmental storytelling with more detailed interactions between the players.
+
+
+# God Rays and Terrain Brushing
+
+Realizing 'God Rays' in Unity URP file with particles.
+
